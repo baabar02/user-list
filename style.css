@@ -1,0 +1,18 @@
+* {
+  margin: 0%;
+  padding: 0;
+}
+
+.user {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  width: fit-content;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.button {
+  margin-top: 10px;
+  margin-left: 20px;
+}
